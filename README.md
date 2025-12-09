@@ -28,6 +28,13 @@ I am actively learning in the field of Computer Science in order to broaden my u
 🎓 Universiti Teknologi Malaysia (2025-Present)
 * Course : Bachelor of Computer Science (Data Engineering) with Honors
 
+## Courses
+<a href="https://github.com/balqisbtrys/SECP1513-Technology-Information-System">SECP1513 Technology Information System</a>
+<br> <a href="https://github.com/balqisbtrys/SECI1013-Discrete-Structure">SECI1013 Discrete Structure</a>
+<br> <a href="https://github.com/balqisbtrys/SECJ1013-Programming-Technique-1">SECJ1013 Programming Technique 1</a>
+<br> <a href="https://github.com/balqisbtrys/SECR1013-Digital-Logic">SECR1013 Digital Logic</a>
+<br> <a href="https://github.com/balqisbtrys/ULRS1032-Integrity-and-Anti-Corruption-Course">ULRS1032 Integrity and Anti-Corruption Course</a>
+
 ## GitHub Activity Graph
 [![Balqis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=balqisbtrys)](https://github.com/balqisbtrys/github-readme-activity-graph)
 
