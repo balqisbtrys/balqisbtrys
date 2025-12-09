@@ -28,9 +28,8 @@ I am actively learning in the field of Computer Science in order to broaden my u
 🎓 Universiti Teknologi Malaysia (2025-Present)
 * Course : Bachelor of Computer Science (Data Engineering) with Honors
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balqisbtrys)
-
-
+## GitHub Activity Graph
+[![Balqis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=balqisbtrys)](https://github.com/balqisbtrys/github-readme-activity-graph)
 
 
 
