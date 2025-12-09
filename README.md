@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Balqis Batrisya!
 I am actively learning in the field of Computer Science in order to broaden my understanding of technologies and gain a lot of experience.
 
-👩‍💻 First year student of Computer Science (Data Engineering) at Universiti Teknologi Malaysia
+👩‍💻 First year Data Engineering student at Universiti Teknologi Malaysia
 <br> 💻 Currently building a strong foundation in Computer Science fundamentals
 <br> 📚 Passionate about coding and continuous learning
 
