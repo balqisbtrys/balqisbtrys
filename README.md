@@ -24,6 +24,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 ## Skills
 * Programming : C++, Java
 * Tools : Visual Studio Code, BlueJ, GitHub
+* Software : Canva, Microsoft Word, Microsoft Excel
 
 ## Courses
 <a href="https://github.com/balqisbtrys/SECP1513-Technology-Information-System">SECP1513 Technology Information System</a>
