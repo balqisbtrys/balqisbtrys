@@ -36,8 +36,9 @@ I am actively learning in the field of Computer Science in order to broaden my u
 
 ## 🌐 Connect with me:
 - Email: balqisbatrisya213@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/balqis-batrisya-016025396?utm_source=share_via&utm_content=profile&utm_medium=member_ios">balqis batrisya</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/balqis-batrisya-016025396?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Balqis Batrisya</a>
 - GitHub: <a href="https://github.com/balqisbtrys/balqisbtrys">balqisbtrys</a>
+- Instagram: <a href="instagram.com/abby.blqis">balqis batrisya</a>
 
 ## GitHub Activity Graph
 [![Balqis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=balqisbtrys)](https://github.com/balqisbtrys/github-readme-activity-graph)
