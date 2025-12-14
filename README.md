@@ -27,11 +27,11 @@ I am actively learning in the field of Computer Science in order to broaden my u
 * Software : Canva, Microsoft Word, Microsoft Excel
 
 ## Courses
-<a href="https://github.com/balqisbtrys/SECP1513-Technology-Information-System">SECP1513 Technology Information System</a>
-<br> <a href="https://github.com/balqisbtrys/SECI1013-Discrete-Structure">SECI1013 Discrete Structure</a>
-<br> <a href="https://github.com/balqisbtrys/SECJ1013-Programming-Technique-1">SECJ1013 Programming Technique 1</a>
-<br> <a href="https://github.com/balqisbtrys/SECR1013-Digital-Logic">SECR1013 Digital Logic</a>
-<br> <a href="https://github.com/balqisbtrys/ULRS1032-Integrity-and-Anti-Corruption-Course">ULRS1032 Integrity and Anti-Corruption Course</a>
+<a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECP1513%20-%20Technology%20and%20Information%20System">SECP1513 Technology Information System</a>
+<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECI1013%20-%20Discrete%20Structure">SECI1013 Discrete Structure</a>
+<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECJ1013%20-%20Programming%20Technique%201">SECJ1013 Programming Technique 1</a>
+<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECR1013%20-%20Digital%20Logic">SECR1013 Digital Logic</a>
+<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption%20Course">ULRS1032 Integrity and Anti-Corruption Course</a>
 
 
 ## 🌐 Connect with me:
