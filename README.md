@@ -16,6 +16,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 * MUET : 4.0
 
 🎓 SM Imtiaz YT Besut (2019-2024)
+* Science Stream
 * SPM : 8A
 
 🎓 SK Alor Lintah (2013-2018)
