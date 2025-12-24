@@ -56,7 +56,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 
 * SK Alor Lintah
   - Action Song - 4th Place (2016)
-  - Choral Speaking - 4th Place (2017)
+  - Choral Speaking - 5th Place (2017)
 
 ## Skills
 * Programming : C++, Java
