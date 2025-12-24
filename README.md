@@ -22,6 +22,20 @@ I am actively learning in the field of Computer Science in order to broaden my u
 🎓 SK Alor Lintah (2013-2018)
 * UPSR : 5A
 
+## Position
+* Universiti Teknologi Malaysia
+  - Activity unit of SUSKOM'25
+  - Petanque Team Manager for UTM Games 2025
+  
+* Kolej Matrikulasi Pahang
+  - Treasurer of Co-Curricular Project (2025)
+ 
+* SM Imtiaz YT Besut
+  - Treasurer of Volleyball Club (2023)
+  - Treasurer of Entrepreneur Club (2023)
+  - Members of Badan Dakwah dan Rohani (2021-2024)
+  - Head of Sports Exco for Badan Dakwah dan Rohani (2023-2024)
+
 ## Skills
 * Programming : C++, Java
 * Tools : Visual Studio Code, BlueJ, GitHub
