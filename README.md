@@ -24,7 +24,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 
 ## Position
 * Universiti Teknologi Malaysia
-  - Activity unit of SUSKOM'25
+  - Crew of ativity unit for SUSKOM'25
   - Petanque Team Manager for UTM Games 2025
   
 * Kolej Matrikulasi Pahang
