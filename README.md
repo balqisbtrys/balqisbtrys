@@ -40,6 +40,23 @@ I am actively learning in the field of Computer Science in order to broaden my u
   - School Prefect (2016-2018)
   - President of the Young Doctors Club (2018)
   - President of Unit Beruniform Tunas Puteri (2018)
+ 
+## Participation and Awards
+* Universiti Teknologi Malaysia
+  - UTMD InsightX 3 "Information System" - Participation (2025)
+  - UTMD InsightX 4 "Digital Infra & Data Engineering" - Participation (2025)
+  - UTMD InsightX 6 "System Development" - Participation (2025)
+
+* Kolej Matrikulasi Pahang
+  - Kuiz Kimia Kebangsaan - Participation (2024)
+
+* SM Imtiaz YT Besut
+  - Medium for Excellent Generation Arise - Participation (2020)
+  - Discover PETRONAS@Schools Digital - Participation (2021)
+
+* SK Alor Lintah
+  - Action Song - 4th Place (2016)
+  - Choral Speaking - 4th Place (2017)
 
 ## Skills
 * Programming : C++, Java
