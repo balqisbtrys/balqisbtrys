@@ -49,10 +49,13 @@ I am actively learning in the field of Computer Science in order to broaden my u
 
 * Kolej Matrikulasi Pahang
   - Kuiz Kimia Kebangsaan - Participation (2024)
+  - Ketupat Run - Participation (2025)
 
 * SM Imtiaz YT Besut
   - Medium for Excellent Generation Arise - Participation (2020)
   - Discover PETRONAS@Schools Digital - Participation (2021)
+  - Perkhemahan Lencana Kemahiran Pengakap Remaja Persekutuan Pengakap Malaysia - Participation (2022)
+  - Beaver Computational Thinking Competition (2022)
 
 * SK Alor Lintah
   - Action Song - 4th Place (2016)
