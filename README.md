@@ -36,6 +36,11 @@ I am actively learning in the field of Computer Science in order to broaden my u
   - Members of Badan Dakwah dan Rohani (2021-2024)
   - Head of Sports Exco for Badan Dakwah dan Rohani (2023-2024)
 
+* SK Alor Lintah
+  - School Prefect (2016-2018)
+  - President of the Young Doctors Club (2018)
+  - President of Unit Beruniform Tunas Puteri (2018)
+
 ## Skills
 * Programming : C++, Java
 * Tools : Visual Studio Code, BlueJ, GitHub
