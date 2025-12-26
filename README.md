@@ -39,7 +39,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 * SK Alor Lintah
   - School Prefect (2016-2018)
   - President of the Young Doctors Club (2018)
-  - President of Unit Beruniform Tunas Puteri (2018)
+  - President of Persatuan Pandu Puteri Tunas (2018)
  
 ## Participation and Awards
 * Universiti Teknologi Malaysia
