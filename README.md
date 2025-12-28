@@ -13,7 +13,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 🎓 Kolej Matrikulasi Pahang (2024-2025)
 * Course : Physical Science
 * CGPA : 3.83
-* MUET : 4.0
+* MUET : Band 4.0
 
 🎓 SM Imtiaz YT Besut (2019-2024)
 * Science Stream
@@ -55,11 +55,9 @@ I am actively learning in the field of Computer Science in order to broaden my u
   - Medium for Excellent Generation Arise - Participation (2020)
   - Discover PETRONAS@Schools Digital - Participation (2021)
   - Perkhemahan Lencana Kemahiran Pengakap Remaja Persekutuan Pengakap Malaysia - Participation (2022)
-  - Beaver Computational Thinking Competition (2022)
-
-* SK Alor Lintah
-  - Action Song - 4th Place (2016)
-  - Choral Speaking - 5th Place (2017)
+  - Beaver Computational Thinking Competition - Participation (2022)
+  - District Sports Events (MSSD) (Netball) - 1st Place (2022)
+  - MASSMIYT Sports Tournament (Netball) - 1st Place (2022)
 
 ## Skills
 * Programming : C++, Java
@@ -72,7 +70,6 @@ I am actively learning in the field of Computer Science in order to broaden my u
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECJ1013%20-%20Programming%20Technique%201">SECJ1013 Programming Technique 1</a>
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECR1013%20-%20Digital%20Logic">SECR1013 Digital Logic</a>
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption%20Course">ULRS1032 Integrity and Anti-Corruption Course</a>
-
 
 ## 🌐 Connect with me:
 - Email: balqisbatrisya213@gmail.com
