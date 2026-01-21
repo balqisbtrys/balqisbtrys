@@ -72,7 +72,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption%20Course">ULRS1032 Integrity and Anti-Corruption Course</a>
 
 ## 🌐 Connect with me:
-- Email: balqisbatrisya213@gmail.com
+- Email: <a href="mailto:balqisbatrisya213@gmail.com">balqisbatrisya213@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/balqis-batrisya-016025396?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Balqis Batrisya</a>
 - GitHub: <a href="https://github.com/balqisbtrys/balqisbtrys">balqisbtrys</a>
 - Instagram: <a href="https://www.instagram.com/abby.blqis?igsh=MXdpYWVxbHA4NjExYg%3D%3D&utm_source=qr">abby.blqis</a>
