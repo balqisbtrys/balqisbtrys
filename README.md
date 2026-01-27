@@ -77,6 +77,9 @@ I am actively learning in the field of Computer Science in order to broaden my u
 - GitHub: <a href="https://github.com/balqisbtrys/balqisbtrys">balqisbtrys</a>
 - Instagram: <a href="https://www.instagram.com/abby.blqis?igsh=MXdpYWVxbHA4NjExYg%3D%3D&utm_source=qr">abby.blqis</a>
 
+### View my personal website here:
+<a href="https://balqisbtrys.github.io/">Personal Website</a>
+
 ## GitHub Activity Graph
 [![Balqis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=balqisbtrys)](https://github.com/balqisbtrys/github-readme-activity-graph)
 
