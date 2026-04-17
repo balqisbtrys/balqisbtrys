@@ -70,6 +70,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem2/tree/main/SECP2613%20-%20System%20Analysis%20and%20Design">SECP2613 System Analysis and Design</a>
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem2/tree/main/SECR1033%20-%20Computer%20Organization%20and%20Architecture">SECR1033 Computer Organisation and Architecture</a>
 <br> <a href="">ULRS1032 Integrity and Anti-Corruption Course</a>
+<br> <a href="">ULRS1032 Integrity and Anti-Corruption Course</a>
 
 ## 🌐 Connect with me:
 - Email: balqisbatrisya213@gmail.com
