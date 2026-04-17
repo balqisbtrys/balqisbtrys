@@ -64,7 +64,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
 * Tools : Visual Studio Code, BlueJ, GitHub
 * Software : Canva, Microsoft Word, Microsoft Excel
 
-## Courses
+## Currently Learning
 <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECP1513%20-%20Technology%20and%20Information%20System">SECP1513 Technology Information System</a>
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECI1013%20-%20Discrete%20Structure">SECI1013 Discrete Structure</a>
 <br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECJ1013%20-%20Programming%20Technique%201">SECJ1013 Programming Technique 1</a>
