@@ -66,10 +66,10 @@ I am actively learning in the field of Computer Science in order to broaden my u
 
 ## Currently Learning
 <a href="https://github.com/balqisbtrys/Year1-Sem2/tree/main/SECI1143%20-%20Probability%20%26%20Statistical%20Data%20Analysis">SECI1143 Probability & Statistical Data Analysis</a>
-<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECI1013%20-%20Discrete%20Structure">SECI1013 Discrete Structure</a>
-<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECJ1013%20-%20Programming%20Technique%201">SECJ1013 Programming Technique 1</a>
-<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/SECR1013%20-%20Digital%20Logic">SECR1013 Digital Logic</a>
-<br> <a href="https://github.com/balqisbtrys/Year1-Sem1/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption%20Course">ULRS1032 Integrity and Anti-Corruption Course</a>
+<br> <a href="https://github.com/balqisbtrys/Year1-Sem2/tree/main/SECJ1023%20-%20Programming%20Technique%20II">SECJ1023 Programming Technique II</a>
+<br> <a href="">SECJ1013 Programming Technique 1</a>
+<br> <a href="">SECR1013 Digital Logic</a>
+<br> <a href="">ULRS1032 Integrity and Anti-Corruption Course</a>
 
 ## 🌐 Connect with me:
 - Email: balqisbatrisya213@gmail.com
