@@ -26,6 +26,8 @@ I am actively learning in the field of Computer Science in order to broaden my u
 * Universiti Teknologi Malaysia
   - Crew of activity unit for SUSKOM'25
   - Petanque Team Manager for UTM Games 2025
+  - Volunteer for LASKAR 2026
+  - HOD Registration for AGM'26
   
 * Kolej Matrikulasi Pahang
   - Treasurer of Co-Curricular Project (2025)
@@ -46,6 +48,7 @@ I am actively learning in the field of Computer Science in order to broaden my u
   - UTMD InsightX 3 "Information System" - Participation (2025)
   - UTMD InsightX 4 "Digital Infra & Data Engineering" - Participation (2025)
   - UTMD InsightX 6 "System Development" - Participation (2025)
+  - Light Up The Night Run: FABU Day 2026 - Participation (2026)
 
 * Kolej Matrikulasi Pahang
   - Kuiz Kimia Kebangsaan - Participation (2024)
